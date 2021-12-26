@@ -1,2 +1,2 @@
-# Machine Learning Algorithm hands on
-hands on machine learning
+# Machine Learning Algorithm
+Implementation of Various ML algorithm
